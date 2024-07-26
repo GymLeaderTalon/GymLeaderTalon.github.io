@@ -4,6 +4,7 @@ date: 2024-07-26 12:00:00 +0300
 categories: [SiresAndDames, BreedingDogs]
 tags: [breedingdogs]     # TAG names should always be lowercase
 description: Here are our sires and dams... (click for more)
+image: /assets/img/photos/bailey.JPG
 ---
 
 # Sires
