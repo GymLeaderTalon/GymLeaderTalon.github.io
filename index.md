@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-We are a small breeder located in Greenfield, OH.  We are not a puppy mill.  All of our danes are raised as family pets and are bred responsibly.
+We are a small breeder located in Greenfield, OH.  All of our danes are raised as family pets.
