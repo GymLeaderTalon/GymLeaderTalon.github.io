@@ -12,7 +12,7 @@ All puppies are being whelped inside our home.
 
 Price is $700 per pup.
 
-To reserve the pup of your choice, we offer a non-refundable retainer fee of $200
+To reserve the pup of your choice, we require a non-refundable deposit of $200.
 
 To inquire about our pups, please send an email to morgan@regaldanes.com or use the email form below.
 
