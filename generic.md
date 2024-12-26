@@ -72,7 +72,7 @@ To inquire about our pups, please send an email to morgan@regaldanes.com or use 
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Prince Tech</h3>
+					<h3>Prince Tech (RESERVED)</h3>
 				</header>
 				<p>Prince Tech was born on November 21st, 2024 at 1:08am.  He will be available to go home on January 16th, 2025</p>
 				<ul class="actions">
