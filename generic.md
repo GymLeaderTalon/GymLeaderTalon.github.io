@@ -58,7 +58,7 @@ Payment forms accepted: Cash, Apple Cash, and Cash App.
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Prince Bandit</h3>
+					<h3>Prince Bandit (RESERVED)</h3>
 				</header>
 				<p>Prince Bandit was born on November 20th, 2024 at 10:55pm.  He will be available to go home on January 15th, 2025</p>
 				<ul class="actions">
