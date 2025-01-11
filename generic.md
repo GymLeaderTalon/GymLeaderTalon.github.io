@@ -122,7 +122,7 @@ Payment forms accepted: Cash, Apple Cash, and Cash App.
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Princess Chilli</h3>
+					<h3>Princess Chilli (RESERVED)</h3>
 				</header>
 				<p>Princess Chilli was born on November 21st, 2024 at 5:00am.  She will be available to go home on January 16th, 2025</p>
 				<ul class="actions">
