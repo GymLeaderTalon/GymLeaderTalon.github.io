@@ -51,6 +51,7 @@ Payment forms accepted: Cash, Apple Cash, and Cash App.
 			</div>
 		</div>
     </section>
+<!--
     <section>
         <a class="image">
 		<img src="{% link assets/images/Bandit.JPG %}" alt="" data-position="center center" />
@@ -62,11 +63,11 @@ Payment forms accepted: Cash, Apple Cash, and Cash App.
 				</header>
 				<p>Prince Bandit was born on November 20th, 2024 at 10:55pm.  He will be available to go home on January 15th, 2025</p>
 				<ul class="actions">
-					<!-- <li><a href="generic.html" class="button">Learn more</a></li> -->
 				</ul>
 			</div>
 		</div>
     </section>
+-->
     <section>
         <a class="image">
 		<img src="{% link assets/images/Tech.JPG %}" alt="" data-position="center center" />
@@ -90,7 +91,7 @@ Payment forms accepted: Cash, Apple Cash, and Cash App.
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Prince Scarf</h3>
+					<h3>Prince Scarf (RESERVED)</h3>
 				</header>
 				<p>Prince Scarf was born on November 21st, 2024 at 2:06am.  He will be available to go home on January 16th, 2025</p>
 				<ul class="actions">
