@@ -91,7 +91,7 @@ Payment forms accepted: Cash, Apple Cash, and Cash App.
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Prince Scarf (RESERVED)</h3>
+					<h3>Prince Scarf (SOLD)</h3>
 				</header>
 				<p>Prince Scarf was born on November 21st, 2024 at 2:06am.  He will be available to go home on January 16th, 2025</p>
 				<ul class="actions">
