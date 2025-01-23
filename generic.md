@@ -42,7 +42,7 @@ Payment forms accepted: Cash, Apple Cash, and Cash App.
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Princess Batcher (RESERVED)</h3>
+					<h3>Princess Batcher (SOLD)</h3>
 				</header>
 				<p>Princess Batcher was born on November 20th, 2024 at 9:25pm.  She will be available to go home on January 15th, 2025</p>
 				<ul class="actions">
