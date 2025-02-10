@@ -2,7 +2,7 @@
 layout: post
 title: Past Litters
 description: See adorable puppies from previous litters
-image: assets/images/2024 puppies in a box.JPG
+image: assets/images/2024 puppies in a box.jpg
 ---
 
 <section id="seven" class="spotlights">
