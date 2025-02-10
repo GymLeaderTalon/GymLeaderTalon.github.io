@@ -18,6 +18,10 @@ To reserve the puppy of your choice, we require a non-refundable deposit of $250
 
 Payment forms accepted: Cash, Apple Cash, and Cash App.
 
+<ul class="actions">
+<li><a href="all_posts.html" class="button special">see past litters</a></li>
+</ul>
+
 <!-- remove this bit to uncomment the below section to add puppy information and photos
 <section id="seven" class="spotlights">
     <section>
