@@ -6,11 +6,15 @@ image: assets/images/Puppies.JPG
 nav-menu: true
 ---
 
-All of our puppies have gone to their forever homes.  
+We do not have any available puppies at this time.
 
-We are planning another litter in 2026 from Bentley x Bailey.
+We are planning another litter in 2026 from King Bentley x Queen Bailey.
 
 To inquire about our pups, please send an email to morgan@regaldanes.com or use the email form below.
+
+All of our puppies are $850, will be vet checked and given their first dose of the DHPP vaccine before going home.
+
+To reserve the puppy of your choice, we require a non-refundable deposit of $250
 
 Payment forms accepted: Cash, Apple Cash, and Cash App.
 
